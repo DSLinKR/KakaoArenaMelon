@@ -2,12 +2,11 @@
 
 ## 재현 방법
 1. main에 있는 python 파일들과 train, test 데이터셋을 같은 경로에 저장합니다.
-2. 다음 코드를 python으로 시행합니다.
+2. 해당 경로에서 다음 코드를 terminal에 시행합니다.
 
 <pre>
 <code>
-from <최종 파일> import <최종 코드>
-<최종 코드>(train, test)
+python inference.py
 </code>
 </pre>
 
