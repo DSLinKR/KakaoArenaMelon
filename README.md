@@ -1,7 +1,6 @@
 # Team MelonMelody's KakaoArenaMelon Recs competition
 
 ## ALS
-\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 
 ## User CF
 
