@@ -1,1 +1,2 @@
-# KakaoArenaMelon
+# Team MelonMelody's repository for KakaoArenaMelon Recs competition
+
