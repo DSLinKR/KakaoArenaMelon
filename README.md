@@ -34,8 +34,7 @@ ALS(Alternative Least Squares)은 CSR 형태로 나타내지는 행렬 R을 User
 
 ## FastText Weighted Tf-Idf
 playlist title은 존재하지만 songs, tags가 모두 전혀 주어지지 않은 플레이리스트들을 cold start라고 규정하였습니다.  
-이러한 플레이리스트들의 경우, FastText 모델과 tf-idf vectorizer를 이용하여 playlist title간 유사도를 계산하여, 가장 유사한 플레이리스트들 100개(혹은 150개)를 후보군으로 두고,  
-후보군 플레이리스트들에서 나타나는 songs와 tags 전체를 빈도 순으로 정렬하여 가장 자주 나온 song 100개, tag 10개를 return하도록 만들었습니다.  
+이러한 플레이리스트들의 경우, FastText 모델과 tf-idf vectorizer를 이용하여 playlist title간 유사도를 계산하여, 가장 유사한 플레이리스트들 100개(혹은 150개)를 후보군으로 두고, 후보군 플레이리스트들에서 나타나는 songs와 tags 전체를 빈도 순으로 정렬하여 가장 자주 나온 song 100개, tag 10개를 return하도록 만들었습니다.  
 
 > 주석
 >> Maksims Volkovs, Himanshu Rai, Zhaoyue Cheng, Ga Wu, Yichao Lu, Scott Sanner. 2018. Two-stage Model for Automatic Playlist Continuation at Scale.  
