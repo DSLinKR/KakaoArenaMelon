@@ -1,5 +1,21 @@
 # Team MelonMelody's KakaoArenaMelon Recs competition
 
+## 재현 방법
+1. main에 있는 python 파일들과 train, test 데이터셋을 같은 경로에 저장합니다.
+2. 다음 코드를 python으로 시행합니다.
+
+<pre>
+<code>
+from <최종 파일> import <최종 코드>
+<최종 코드>(train, test)
+</code>
+</pre>
+
+3. 파일들이 포함된 경로에 결과파일이 *results.json* 으로 저장되어있을 것입니다.
+  
+
+
+
 ## ALS
 <a href="https://www.codecogs.com/eqnedit.php?latex=R=UV" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R=UV" title="R=UV" /></a>
 
