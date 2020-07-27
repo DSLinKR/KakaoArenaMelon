@@ -1,2 +1,13 @@
-# Team MelonMelody's repository for KakaoArenaMelon Recs competition
+# Team MelonMelody's KakaoArenaMelon Recs competition
 
+## ALS
+
+## User CF
+
+## Item CF
+
+## Gated CNN
+
+## Blending
+
+## XGBoost
